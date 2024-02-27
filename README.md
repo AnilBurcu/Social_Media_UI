@@ -6,4 +6,4 @@ I created a simple social media website which is used React.
 <h2>Link: https://simplesocialui.netlify.app<h2>
 <h2> Screen <h2>
 
-![](socialmediaUI.gif)
+![](SociamedialUI.gif)
